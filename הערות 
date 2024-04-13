@@ -1,3 +1,4 @@
 התקנתי package.jsonm (npm init --y)
 התקנתי sdk (npm install firbase)
 יצירת firebase.config
+import of firestore and let db then export to app.js 
