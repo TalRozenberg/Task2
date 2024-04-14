@@ -18,3 +18,4 @@ console.log(db);
 
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
+
